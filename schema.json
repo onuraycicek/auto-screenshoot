@@ -1,0 +1,29 @@
+{
+	"description": "Process some integers.",
+	"arguments": [
+		{
+			"short": "f",
+			"long": "filename",
+			"var": "STRING",
+			"help": "File name",
+			"default": null,
+			"type": "str"
+		},
+		{
+			"short": "dp",
+			"long": "defaultPath",
+			"var": "STRING",
+			"help": "Default path",
+			"default": null,
+			"type": "str"
+		},
+		{
+			"short": "d",
+			"long": "day",
+			"var": "STRING",
+			"help": "Day folder structure",
+			"default": null,
+			"type": "str"
+		}
+	]
+}
