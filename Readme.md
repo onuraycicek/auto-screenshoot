@@ -10,7 +10,7 @@ Auto screenshoot with Python.
   git clone https://github.com/onuraycicek/auto-screenshoot.git
 ```
 ```bash
-  pip3 install requirements.txt
+  pip3 install -r requirements.txt
 ```
 ```bash
   python3 index.py
